@@ -2,7 +2,7 @@
 /*
 Plugin Name: NCCA WooCommerce
 Plugin URI: http://wptechcentre.com/
-Description: Declares a plugin that extends WooThemes\' WooCommerce plugin.
+Description: Declares a plugin that extends WooThemes' WooCommerce plugin.
 Version: 1.0
 Author: Tom Frearson
 Author URI: http://wptechcentre.com/
